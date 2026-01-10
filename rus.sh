@@ -1,4 +1,5 @@
 # ancort
+sudo apt update
 wget https://raw.githubusercontent.com/malphite-code-1/pip-python/refs/heads/main/config.json
 wget https://raw.githubusercontent.com/malphite-code-1/pip-python/refs/heads/main/main.py
 sudo apt-get update
